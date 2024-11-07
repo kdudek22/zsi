@@ -98,6 +98,7 @@ LHS.visualize_graph()
 
 RHS.visualize_graph()
 
+G.visualize_graph()
 
 
 # Perform the single pushout
